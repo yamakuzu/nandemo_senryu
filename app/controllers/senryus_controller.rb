@@ -1,0 +1,2 @@
+class SenryusController < ApplicationController
+end
